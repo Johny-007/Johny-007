@@ -5,7 +5,7 @@
 
 📗 Cursando Tec em programação - QualificaMax
 
-📘 Cursando infomática fast - MicroCamp
+📘 Cursando infomática - MicroCamp
 
 📙 Cursando 3º módulo Python - Curso em Video (EAD)
 
