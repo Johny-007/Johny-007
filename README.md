@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Johny
 🙃 16y
 
-🕹️ dev Python
+🕹️ dev Python jr
 
 📗 Cursando Tec em programação - QualificaMax
 
