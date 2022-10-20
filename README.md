@@ -11,7 +11,7 @@
 
 📒 Cursando 2º série ensino médio
 
-🛠️ Trabalhei por pouco menos de 2 anos em outro setor
+🛠️ Trabalhei em outro setor
 ##
 ##
 
