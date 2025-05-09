@@ -1,15 +1,8 @@
 ### Olá! Eu sou o Johny
-🙃 16y
+🙃 19y
 
 🕹️ dev Python jr
-
-📗 Cursando Tec em programação - QualificaMax
-
-📘 Cursando infomática - MicroCamp
-
-📙 Cursando 3º módulo Python - Curso em Video (EAD)
-
-📒 Cursando 2º série ensino médio
+🙌 Process Quality Analyst
 
 🛠️ Trabalhei em outro setor
 ##
